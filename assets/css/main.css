@@ -2815,7 +2815,8 @@ input, select, textarea {
 		}
 
 		.main.style2 {
-			background-color: #333;
+			background-color: #34495E;
+			background-image: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 6%, rgba(0,212,255,1) 87%);
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
 			background-image: url("images/overlay1.png"), url("../../images/header.jpg");
@@ -3106,7 +3107,7 @@ input, select, textarea {
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(45deg, #4361c2, #4fa49a 50%, #9dc66b 95%);
+		background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(55deg, #EDF6FF 1%, #6DAFFE 40%, #437FC7);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		text-align: center;
