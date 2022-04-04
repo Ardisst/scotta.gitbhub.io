@@ -186,8 +186,6 @@ main .content {
 
 /* misc */
 body {
-  overflow-x: hidden;
-  background: #444;
   color: white;
   font: 1em/1.4 "lato";
 }
