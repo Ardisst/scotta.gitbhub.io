@@ -2301,15 +2301,15 @@ input, select, textarea {
 		}
 
 		.icon.style1:before {
-			color: #c3e895;
+			color: #57aed3;
 		}
 
 		.icon.style2:before {
-			color: #8addaa;
+			color: #57aed3;
 		}
 
 		.icon.style3:before {
-			color: #6bd4c8;
+			color: #57aed3;
 		}
 
 		.icon.style4:before {
@@ -2592,7 +2592,7 @@ input, select, textarea {
 		}
 
 			ul.major-icons li .icon {
-				border-radius: 3px;
+				border-radius: 2px;
 				display: inline-block;
 				height: 9em;
 				line-height: 6em;
